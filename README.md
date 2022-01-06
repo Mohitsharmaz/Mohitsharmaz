@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohitsharmaz
--  Front end developer
+-  ReactJs Developer
 
 <!---
 Mohitsharmaz/Mohitsharmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
