@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Mohitsharmaz
--  ReactJs Developer
+-  ReactJs, NodeJs , Mongo Db
+-  Full Stack Developer
+-  
 
 <!---
 Mohitsharmaz/Mohitsharmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
